@@ -1,0 +1,22 @@
+=== HOTEL MANAGEMENT SYSTEM DATA ===
+
+Room Status:
+Room 1 : Available
+Room 2 : Available
+Room 3 : Available
+Room 4 : Available
+Room 5 : Available
+Room 6 : Available
+Room 7 : Available
+Room 8 : Available
+Room 9 : Available
+Room 10 : Available
+
+No active customers.
+
+No waiting customers.
+
+No booking history.
+
+Total Revenue: Rs.2000
+
